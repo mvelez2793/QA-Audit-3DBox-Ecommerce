@@ -33,6 +33,11 @@
 * **Frameworks:** OWASP Top 10 (Security Focus).
 * **Methodology:** Risk-Based Testing (RBT) & BDD (Behavior Driven Development).
 
+- **Gestión:** JIRA (Metodología Ágil / Kanban).
+- **Documentación:** Markdown & Draw.io.
+- **Seguridad:** Estándares OWASP Top 10 (A04:2021).
+- **Control de Versiones:** Git & GitHub (Conventional Commits).
+
 ---
 
 ## 📁 Detailed Reports / Reportes Detallados
