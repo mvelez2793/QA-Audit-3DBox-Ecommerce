@@ -4,8 +4,8 @@
 Este módulo comprende el flujo de personalización y compra de figuras 3D para mascotas. Es una sección crítica debido a la alta interacción del usuario con campos de entrada (inputs) y selectores dinámicos.
 
 ## 🗺️ Mapa de Flujo de Pruebas (Diagrama de Procesos)
-Se ha diseñado un diagrama detallado para identificar los puntos de decisión y los vectores de entrada de datos.
-> **Ubicación del archivo:** 
+Se diseñó un mapa conceptual del flujo transaccional de WooCommerce para aislar los frentes de ataque y segmentar las categorías de prueba de forma atómica en la categoria Mascota 3D
+> ![Diagrama de Arquitectura de Pruebas - MASCOTA 3D] https://github.com/mvelez2793/QA-Audit-3DBox-Ecommerce/blob/main/categorias/01_Mascotas_3D/docs/Diagrama%203dbox_Ec%20WooComerce.drawio.png
 
 ### 🔍 Puntos Críticos Identificados (Hotspots):
 1. **Input "Identifica tu mascota" "Detalle Adicional":** Riesgo de inyección de payloads y falta de sanitización.
